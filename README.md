@@ -1,6 +1,6 @@
 # PricingModuleProject
 
-Internal Project to Reward the Client of Ingenious e-brain
+Assessment Project for Fyn Mobility
 
 ## Backend( Django )
 
